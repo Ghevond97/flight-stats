@@ -1,3 +1,7 @@
+#flight-stats
+
+This is an experimental project aimend ad testing latest trends for react developmen. The entire project will be written in typescript and the traditional redux will be replaced with rematch. Skyscanners free api will be used for making some test calls and getting some flight information.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
