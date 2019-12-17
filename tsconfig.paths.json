@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "api": ["api/index"],
+    "utils": ["utils/index"],
+    "models": ["models/index"],
+    "store": ["store/index"],
+    "components": ["components/index"],
+    "keys": ["keys/index"]
+  }
+}
